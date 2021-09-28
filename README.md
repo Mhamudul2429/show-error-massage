@@ -1,3 +1,4 @@
+![999](https://user-images.githubusercontent.com/87128828/135139516-9fb7d943-b0ac-454f-bfde-5e3b5804456e.PNG)
 
 # Show Error Massage
 
@@ -17,8 +18,3 @@ Yes, Please have a look on it.
   
 ## 🚀 About Me
 I'm a learner of web development....
-
-## Image
-
-![999](https://user-images.githubusercontent.com/87128828/135139516-9fb7d943-b0ac-454f-bfde-5e3b5804456e.PNG)
-  
